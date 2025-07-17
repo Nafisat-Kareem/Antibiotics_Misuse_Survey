@@ -4,7 +4,7 @@
 
 ## 🗂️ Form Details
 - Tool: KoboToolbox XLSForm
-- Sections: Demographics, Knowledge, Practices, Sources
+- Sections: Demographics, Knowledge, Practices, Sources, Reasons, Perspective
 - Format: Excel (.xlsx)
 
 ## 🚀 How to Use
